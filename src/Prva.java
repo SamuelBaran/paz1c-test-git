@@ -5,6 +5,7 @@ public class Prva {
 		
 		for (int i = 0; i < args.length; i++) {
 //			samo was here
+//			zmena pre druheho
 		}
 
 	}
